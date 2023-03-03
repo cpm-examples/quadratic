@@ -1,0 +1,11 @@
+{
+    "name": "quadratic",
+    "version": "0.1.0",
+    "url": "https://github.com/cpm-examples/quadratic",
+    "description": "A C++ library for solving quadratic equations",
+    "author": "YassenEfremov",
+    "license": "",
+    "dependencies": {
+        "polynomial": "0.1.1"
+    }
+}
