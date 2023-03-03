@@ -6,6 +6,7 @@
     "author": "YassenEfremov",
     "license": "",
     "dependencies": {
-        "polynomial": "0.1.1"
+        "polynomial": "0.1.1",
+        "sqrt": "0.1.0"
     }
 }
